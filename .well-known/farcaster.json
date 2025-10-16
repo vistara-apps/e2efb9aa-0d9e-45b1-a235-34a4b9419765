@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJiYXNlLWNoZWNraW4uY29tIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "vNext",
+    "name": "Base Check-In",
+    "homeUrl": "https://base-checkin.com",
+    "iconUrl": "https://base-checkin.com/icon-256x256.png",
+    "splashImageUrl": "https://base-checkin.com/splash-200x200.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://base-checkin.com/api/webhook",
+    "subtitle": "Gasless event badges",
+    "description": "Mint free digital badges for event attendance on Base, shareable on Farcaster.",
+    "screenshotUrls": [
+      "https://base-checkin.com/screenshot-1.png",
+      "https://base-checkin.com/screenshot-2.png",
+      "https://base-checkin.com/screenshot-3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["events", "badges", "nft", "base", "farcaster"],
+    "heroImageUrl": "https://base-checkin.com/hero.png",
+    "tagline": "Check in, mint, share",
+    "ogTitle": "Base Check-In",
+    "ogDescription": "Mint free digital badges for event attendance on Base",
+    "ogImageUrl": "https://base-checkin.com/og-image.png"
+  }
+}
