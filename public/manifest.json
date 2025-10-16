@@ -1,0 +1,14 @@
+{
+  "name": "Base Check In",
+  "description": "Base Check In is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Base Check In",
+      "description": "Base Check In is a Base Mini App built with Zara.",
+      "url": "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

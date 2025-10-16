@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Base Check In",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-b9419765-poyv.vercel.app",
+    "imageUrl": "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app/image.png",
+    "splashImageUrl": "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-b9419765-poyv.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "Base Check In is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app/screenshot1.png",
+      "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app/hero.png",
+    "tagline": "Base Check In",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "Base Check In",
+    "ogDescription": "Base Check In is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://e2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Base%20Check%20In+at+https%3A%2F%2Fe2efb9aa-0d9e-45b1-a235-34a4b9419765.vercel.app"
+  }
+}
